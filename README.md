@@ -6,8 +6,5 @@ http://www.maizuru-ct.ac.jp/06life/other.html#dormitory
 
 python3系です。
 
-# 動作を確認している環境
- ubuntu 16.04 @ bash on windows
- 
-# たしか入れてたやつ
+# 多分必要なやつ
  wget python3 poppler-utils
