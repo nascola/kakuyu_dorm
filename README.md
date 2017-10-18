@@ -7,7 +7,7 @@ http://www.maizuru-ct.ac.jp/06life/other.html#dormitory
 python3系です。
 
 # 多分必要なやつ
- wget python3 poppler-utils
+ wget python3 poppler-utils imagemagick
 
 # 使い方
 
